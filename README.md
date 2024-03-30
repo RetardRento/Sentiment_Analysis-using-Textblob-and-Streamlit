@@ -22,7 +22,10 @@
 
 ## How to run 
 to run the project locally first 
+
 -- Download the GitHub repo onto your local machine
+
 -- install the prerequisites mentioned above 
+
 run the following on the terminal
->> streamlit run main.py
+> streamlit run main.py
